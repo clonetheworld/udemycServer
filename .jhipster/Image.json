@@ -1,0 +1,19 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20181219151940",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "image",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
